@@ -1,0 +1,7 @@
+piano, clavier;
+bayan, wicki-hayden;
+accordion, wicki-hayden;
+wicki, wicki-hayden;
+hayden, wicki-hayden;
+chromatic, wicki-hayden;
+isomorphic, wicki-hayden;
